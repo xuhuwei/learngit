@@ -7,4 +7,5 @@ window.onload = function () {
     this.alert(b)
 }
 
-console.log(a)
+console.log(a - 5)
+
